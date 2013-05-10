@@ -6,6 +6,7 @@
     "name": "Anton Nguyen",
     "email": "anton@freshbooks.com"
   },
+  "preferGlobal": "false",
   "dependencies": {
     "util": "0.4.9",
     "posix": "1.0.0"
@@ -13,6 +14,10 @@
   "devDependencies": {
     "winston": "0.7.x",
     "vows": "0.7.x"
+  },
+  "repository" : {
+      "type": "git",
+      "url": "https://github.com/AntonNguyen/winston-posix-syslog.git"
   },
   "main": "./lib/winston-posix-syslog",
   "engines": {
