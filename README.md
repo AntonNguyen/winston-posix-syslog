@@ -12,7 +12,7 @@ A Syslog transport for [winston][0] using posix.
 ```
 
 ## Motivation
-`tldr;?`: The [winston-syslog](https://github.com/indexzero/winston-syslog) transport is amazing, but it only capable of communicating with syslog using udp or tcp. I needed something in my environment that uses the C bindings.
+The [winston-syslog](https://github.com/indexzero/winston-syslog) transport is amazing, but it only capable of communicating with syslog using udp or tcp. I needed something in my environment that uses the C bindings.
 
 
 ## Usage
