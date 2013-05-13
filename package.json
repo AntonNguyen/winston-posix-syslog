@@ -6,7 +6,7 @@
     "name": "Anton Nguyen",
     "email": "anton@freshbooks.com"
   },
-  "preferGlobal": "false",
+  "preferGlobal": false,
   "dependencies": {
     "util": "0.4.9",
     "posix": "1.0.0"
