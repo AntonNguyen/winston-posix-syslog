@@ -51,10 +51,9 @@ The `PosixSyslog` transport will only log to the level that are available in the
 * debug
 * info
 * notice
-* warning
+* warn
 * error
 * crit
 * alert
-* emerg
 
 [0]: https://github.com/indexzero/winston

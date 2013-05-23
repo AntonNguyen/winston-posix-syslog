@@ -1,7 +1,7 @@
 {
   "name": "winston-posix-syslog",
   "description": "A syslog transport for winston that uses posix",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": {
     "name": "Anton Nguyen",
     "email": "anton@freshbooks.com"
