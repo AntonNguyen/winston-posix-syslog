@@ -8,8 +8,8 @@
   },
   "preferGlobal": false,
   "dependencies": {
-    "util": "0.4.9",
-    "posix": "1.0.0",
+    "util": "0.4.x",
+    "posix": "1.0.x",
     "winston": "0.7.x"
   },
   "devDependencies": {
